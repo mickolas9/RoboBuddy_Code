@@ -9,7 +9,9 @@ body {
   display: flex;
   flex-direction: column; /* Align header and main container vertically */
   align-items: center;
+  background-color: #DEDEDE;
 }
+
 
 header {
   background-color: rgba(50, 50, 50, 0.3); /* 50% opaque background */
